@@ -5,4 +5,4 @@ Kodewave technical test purpose only
 
 - api route only for /todos created. 
 
-you can also view and test against the deployed project on my live site at kodewave-test.nekopaw.net
+you can also view and test against the deployed project on my live site at https://kodewave-test.nekopaw.net
